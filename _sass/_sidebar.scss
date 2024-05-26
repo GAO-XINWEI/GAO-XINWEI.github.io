@@ -258,3 +258,13 @@
     }
   }
 }
+
+// (xinwei) Add Visitor Tracking
+.clustrmaps-container {
+  display: none; // Hide by default
+
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    display: block; // Show on larger screens
+    margin-top: 20px; // Maintain any existing styling, such as margin
+  }
+}
