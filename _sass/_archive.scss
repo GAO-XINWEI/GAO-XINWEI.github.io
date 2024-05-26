@@ -36,6 +36,7 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    font-size: $type-size-5;  // (xinwei) blog page title
   }
 }
 
@@ -242,4 +243,25 @@
       }
     }
   }
+}
+
+// (xinwei) Overwrite Appearance
+.list__item {
+  padding-left: 10px;
+}
+// Archive Page
+.list__item .archive__item p {
+  font-size: 0.8em;
+  // margin-top: 0.1em;     // debug
+  // margin-bottom: 0.5em;
+}
+.archive__item .page__meta {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  // font-size: $type-size-7;
+}
+.archive__item .page__date {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  // font-size: $type-size-7;
 }
