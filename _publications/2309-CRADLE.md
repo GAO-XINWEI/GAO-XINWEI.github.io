@@ -1,8 +1,8 @@
 ---
-title: "[Review] CRADLE: Constrained Reinforcement for Autonomous Driving"
+title: "[Review] CRADLE"
 collection: publications
 permalink: /publication/2024/01/01/CRADLE
-excerpt:  'Proposed a constraint-RL based formulation for the autonomous driving problem with constraints. The proposed approach performs better than the previous RL-based approach on the specific autonomous driving task.'
+excerpt:  'Under Review.'
 date: 2024-01-01
 venue: 'ICRA'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
