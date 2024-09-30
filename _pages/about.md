@@ -11,6 +11,7 @@ I am currently a **Research Assistant** under the **AI Singapore Programme** at 
   - Reinforcement Learning
   - Robotic Control Optimization
   - Safety mechanisms of Machine Learning
+
 In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as continuous learning, federated learning, and related areas.
 
 ## 💻 Professional Experience
