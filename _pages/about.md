@@ -44,15 +44,15 @@ In addition to these core areas, I am eager to expand my research into emerging 
 
 ## 🔬 Research Experience
 
-- **AI Singapore: Automated assessment of trustworthiness for AI Training Programs**
-  *Dec 2023 - Present*
+- **AI Singapore: Automated assessment of trustworthiness for AI Training Programs**  
+  *Dec 2023 - Present*  
   Introduces a theoretical approach that leverages regret minimization within a teacher-student framework to provide immediate training feedback and fairness comparison. Allowing sample efficiency while preserving optimal solution. 
 
 - **AI Singapore: ML safety navigation algorithm for CPS system**  
-  *Status: Under Review, Oct 2022 - Present*
+  *Status: Under Review, Oct 2022 - Present*  
   Formulate a autonomous driving problem under the setting that is sensitive to the for safety configuration. This approach outperforms various baselines in terms of performance.
 
-- **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**
+- **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**  
   *Aug 2021~Oct 2022*  
   Proposed an Individual Voting mechanism to optimize the pathfinding algorithm's performance in dead/livelock situations. A decentralized RL algorithm and a centralized search-based algorithm are learned to combine.  
 
