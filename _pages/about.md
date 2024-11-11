@@ -12,7 +12,7 @@ I am currently a **Research Associate** under the **AI Singapore Programme** at 
   - Learning to Optimization
   - Safety mechanisms of Machine Learning
 
-In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as recommender system, federated learning, and related areas.
+In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as generative AI, recommender system, data mining, federated learning, and related areas.
 
 ## 💻 Professional Experience
 
@@ -71,8 +71,7 @@ In addition to these core areas, I am eager to expand my research into emerging 
 
 ## 🛠️ Technical Skills
 I am good at the skills below:
-- **Programming Languages**: Python, C++
-- **Scientific Tools**: MATLAB, Origin
-- **Operating Systems**: Linux, ROS, Docker
+- **Programming Languages**: Python, C++, MATLAB, Origin
+- **Operation Platforms**: Linux, ROS, Docker, Jetson Nano, Arduino, Raspberry Pi
 - **CAD Software**: AutoCAD, SolidWorks
-- **Game Development**: Unity
+- **Game Development**: Unity, OpenAI Gym
