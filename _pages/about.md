@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Research Assistant** under the **AI Singapore Programme** at the **CPS Research Group**, Nanyang Technological University (NTU). I possess in-depth expertise in machine learning research and algorithm development. My research interest includes:
+I am currently a **Research Associate** under the **AI Singapore Programme** at the **CPS Research Group**, Nanyang Technological University (NTU). I possess in-depth expertise in machine learning research and algorithm development. My research interest includes:
   - Reinforcement Learning
-  - Robotic Control Optimization
+  - Learning to Optimization
   - Safety mechanisms of Machine Learning
 
-In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as continuous learning, federated learning, and related areas.
+In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as recommender system, federated learning, and related areas.
 
 ## 💻 Professional Experience
 
