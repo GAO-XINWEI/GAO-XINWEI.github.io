@@ -11,6 +11,7 @@ I am currently a **Research Associate** under the **AI Singapore Programme** at 
   - Reinforcement Learning
   - Learning to Optimization
   - Safety mechanisms of Machine Learning
+  - Robotics System
 
 In addition to these core areas, I am eager to expand my research into emerging fields that align with my current expertise, such as generative AI, recommender system, data mining, federated learning, and related areas.
 
