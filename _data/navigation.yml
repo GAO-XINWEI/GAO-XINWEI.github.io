@@ -11,8 +11,8 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
     
   - title: "CV"
     url: /files/Resume/Xinwei_Gao_Resume.pdf
