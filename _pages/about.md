@@ -50,8 +50,8 @@ In addition to these core areas, I am eager to expand my research into emerging 
   Introduces a theoretical approach that leverages regret minimization within a teacher-student framework to provide immediate training feedback and fairness comparison. Allowing sample efficiency while preserving optimal solution. 
 
 - **AI Singapore: ML safety navigation algorithm for CPS system**  
-  *Status: Under Review, Oct 2022 - Present*  
-  Formulate a autonomous driving problem under the setting that is sensitive to the for safety configuration. This approach outperforms various baselines in terms of performance.
+  *Status: Paper Accepted, Oct 2022 - Oct 2024*  
+  We modeled the problem of lane-keeping as a constrained optimization problem and presented a constrained RL based solution to the problem. The weight coefficients are adaptively learned without scenario-specific tuning and grid search. Empirically, we observe that our approach surpasses traditional RL-based approaches.
 
 - **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**  
   *Aug 2021~Oct 2022*  
